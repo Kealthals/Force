@@ -8,6 +8,10 @@
         <members>Hello</members>
         <members>Hello_App_Page</members>
         <name>CustomApplication</name>
-    </types>   
+    </types>
+    <types>
+        <members>Hello_App_Page</members>
+        <name>CustomTab</name>
+    </types>
     <version>44.0</version>
 </Package>
