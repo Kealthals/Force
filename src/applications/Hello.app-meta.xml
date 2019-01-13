@@ -12,5 +12,4 @@
     <navType>Standard</navType>
     <tabs>Hello_App_Page</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>undefined_UtilityBar</utilityBar>
 </CustomApplication>
